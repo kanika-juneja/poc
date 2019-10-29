@@ -1,0 +1,16 @@
+{
+  "type": "record",
+  "name": "Employee",
+  "namespace": "com.camel.kafka.avro",
+  "fields": [
+    {
+      "name": "firstName",
+      "type": "string"
+    },
+    {
+      "name": "lastName",
+      "type": "string"
+    }
+  ]
+}
+
